@@ -17,6 +17,8 @@
   <img align="center" alt="Jao-Premiere" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="Jao-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Jao-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
+  <img align="center" alt="Jao-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+
 
  
 <!--   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
