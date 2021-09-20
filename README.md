@@ -56,3 +56,6 @@
   ![Snake animation](https://github.com/jvbrandao18/jvbrandao18/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+ 
+<!-- ## é a reta de divisão -->
