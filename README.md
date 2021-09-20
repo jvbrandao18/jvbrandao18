@@ -32,8 +32,7 @@
 
 
  
- <div class="tenor-gif-embed" data-postid="18841535" data-share-method="host" data-aspect-ratio="2.38806" data-width="100%"><a href="https://tenor.com/view/hello-there-general-kenobi-gif-18841535">Hello There General Kenobi GIF</a>from <a href="https://tenor.com/search/hello+there-gifs">Hello There GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
- 
+ <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:41.54%;position:relative;"><iframe width="260" height="108" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/5nnvpj"></iframe></div><p><a href="https://imgflip.com/gif/5nnvpj">via Imgflip</a></p></div>
 </div>
   
   ##
