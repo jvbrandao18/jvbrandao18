@@ -1,5 +1,14 @@
 ## Olá, bem vindo(a)! Eu sou o João 😄👾👋
 
+🎓 Cursando Ciência da Computação
+
+💻 Desenvolvendo meu site: https://jvbrandao18.github.io/meuportfolio/
+
+🖥️ Programador e Desenvolvedor
+
+✔️📈 7 meses de experiência com Startup - Go44 Transformação Digital
+
+🎥📷 Editor de vídeos e fotos
 
 
 
