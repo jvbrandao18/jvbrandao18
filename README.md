@@ -1,4 +1,4 @@
-## Oiii! Eu sou o João
+## Olá, bem vindo(a)! Eu sou o João ^^
  <div>
   <a href="https://github.com/jvbrandao18">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvbrandao18&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
