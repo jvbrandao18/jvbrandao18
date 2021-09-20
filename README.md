@@ -1,7 +1,7 @@
 ## Oiii! Eu sou o João
  <div>
   <a href="https://github.com/jvbrandao18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvbrandao18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvbrandao18&show_icons=true&theme=synthwave'84&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvbrandao18&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
