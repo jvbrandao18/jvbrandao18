@@ -6,7 +6,7 @@
 
 🖥️ Programador e Desenvolvedor
 
-✔️📈 7 meses de experiência com Startup - Go44 Transformação Digital
+✔️📈 6 meses de experiência com Startup - Go44 Transformação Digital
 
 🎥📷 Editor de vídeos e fotos
 
