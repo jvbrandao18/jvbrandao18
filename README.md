@@ -7,6 +7,7 @@
 🖥️ Programador e Desenvolvedor
 
 ✔️📈 6 meses de experiência com Startup - Go44 Transformação Digital
+:technologist:	Trabalhando no Grupo Marista
 
 🎥📷 Editor de vídeos e fotos
 
