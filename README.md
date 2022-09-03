@@ -7,6 +7,8 @@
 🖥️ Programador e Desenvolvedor
 
 ✔️📈 6 meses de experiência com Startup - Go44 Transformação Digital
+✔️📈 Atualmente Estagiário do Grupo Marista [
+
 
 :technologist:	Trabalhando no Grupo Marista
 
