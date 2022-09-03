@@ -8,10 +8,8 @@
 
 ✔️📈 6 meses de experiência com Startup - Go44 Transformação Digital
 
-📊🏢 Atualmente Estagiário do Grupo Marista
 
-
-:technologist:	Trabalhando no Grupo Marista
+:technologist:	🏢Trabalhando no Grupo Marista
 
 🎥📷 Editor de vídeos e fotos
 
