@@ -4,12 +4,12 @@
 
 💻 Desenvolvendo meu site: https://jvbrandao18.github.io/meuportfolio/
 
-🖥️ Programador e Desenvolvedor
+🖥️ Programador
 
 ✔️📈 6 meses de experiência com Startup - Go44 Transformação Digital
 
 
-:technologist:	🏢Trabalhando no Grupo Marista
+:technologist:	🏢Estagiário em Planejamento Estratégio e Transformação Digital no Grupo Marista
 
 🎥📷 Editor de vídeos e fotos
 
