@@ -1,6 +1,6 @@
 ## Olá, bem vindo(a)! Eu sou o João 😄👾👋
 
-🎓 Cursando Ciência da Computação
+🎓 Formado em Ciência da Computação pela PUCPR
 
 💻 Desenvolvendo meu site: https://jvbrandao18.github.io/meuportfolio/
 
@@ -9,7 +9,7 @@
 ✔️📈 6 meses de experiência com Startup - Go44 Transformação Digital
 
 
-:technologist:	🏢Estagiário em Planejamento Estratégio e Transformação Digital no Grupo Marista
+:technologist:	🏢Analista de Projetos em Gestão de Processos no Grupo Marista
 
 🎥📷 Editor de vídeos e fotos
 
