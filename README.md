@@ -1,5 +1,3 @@
-Senhor, segue uma versão mais profissional, objetiva e alinhada ao seu posicionamento atual na área de tecnologia, RPA e Segurança da Informação. Mantive a estética adequada para um README de destaque no GitHub.
-
 ---
 
 ## 👋 Olá, eu sou o João Vitor Brandão
