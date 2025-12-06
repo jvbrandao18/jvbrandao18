@@ -1,5 +1,3 @@
----
-
 ## 👋 Olá, eu sou o João Vitor Brandão
 
 Analista de TI Pleno na PUCPR / Grupo Marista, com atuação em **RPA**, **Python**, **Robot Framework**, **integrações corporativas** e **boas práticas de Segurança da Informação aplicadas à automação**. Tenho experiência sustentando e desenvolvendo fluxos críticos em ambientes institucionais complexos, integrando sistemas como **Prime, SharePoint, Canvas, SQL, Power Automate** e plataformas internas do Grupo Marista.
