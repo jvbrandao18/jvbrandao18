@@ -5,9 +5,13 @@ Analista de TI Pleno na PUCPR / Grupo Marista, com atuação em **RPA**, **Pytho
 Atualmente, aprofundo minha especialização em **automação segura**, buscando elevar maturidade, governança e confiabilidade das soluções em RPA. Meu foco é tornar-me referência técnica na área, unindo conhecimento em desenvolvimento, segurança e processos.
 
 🎓 Ciência da Computação – PUCPR
+
 🎓 Pós-graduação em Segurança da Informação
+
 🤖 Desenvolvedor de RPA (Python + Robot Framework)
+
 🔐 Experiência em controles de acesso, gestão de credenciais, segregação de funções e rastreabilidade de automações
+
 📚 Estudo contínuo em arquitetura de software, padrões de projeto e práticas DevSecOps
 
 🌐 Portfólio: **[https://jvbrandao18.github.io/meuportfolio/](https://jvbrandao18.github.io/meuportfolio/)**
