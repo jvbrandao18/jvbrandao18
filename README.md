@@ -6,7 +6,7 @@ Atualmente, aprofundo minha especialização em **automação segura**, com foco
 
 ### Formação Acadêmica
 - Bacharelado em Ciência da Computação – PUCPR  
-- Pós-graduação em Segurança da Informação  
+- Pós-graduado em Segurança da Informação  
 
 ### Atuação Profissional
 - Desenvolvedor de RPA (Python e Robot Framework)  
