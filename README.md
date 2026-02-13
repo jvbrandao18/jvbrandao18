@@ -58,10 +58,6 @@ https://jvbrandao18.github.io/meuportfolio/
 
 ---
 
-## Contato e Redes Profissionais
+## Contato
 
 - LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-vitor-brand%C3%A3o-b951471b7/  
-- Instagram: https://instagram.com/jvbrandao18  
-- Twitter: https://twitter.com/jvbrandao_  
-- Twitch: https://www.twitch.tv/brandao_18  
-- E-mail: jvitbrandao@gmail.com  
